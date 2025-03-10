@@ -10,8 +10,8 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw;
 
     for (int test = 1; test <= 10; test++) {
-        sc = new Scanner(new File("pizzaglyphs/input" + test + ".txt"));
-        bw = new BufferedWriter(new FileWriter("pizzaglyphs/output" + test + ".txt"));
+        sc = new Scanner(new File("pizzaglyphs/input/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("pizzaglyphs/output/output" + test + ".txt"));
 
         int n = sc.nextInt();
         int m = sc.nextInt();

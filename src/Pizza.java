@@ -6,8 +6,8 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw;
 
     for (int test = 1; test <= 10; test++) {
-        sc = new Scanner(new File("pizza/input" + test + ".txt"));
-        bw = new BufferedWriter(new FileWriter("pizza/output" + test + ".txt"));
+        sc = new Scanner(new File("pizza/input/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("pizza/output/output" + test + ".txt"));
 
         int n = sc.nextInt();
         boolean found = false;

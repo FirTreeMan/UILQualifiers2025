@@ -6,8 +6,8 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw;
 
     for (int test = 1; test <= 10; test++) {
-        sc = new Scanner(new File("accidentalpurchase/input" + test + ".txt"));
-        bw = new BufferedWriter(new FileWriter("accidentalpurchase/output" + test + ".txt"));
+        sc = new Scanner(new File("accidentalpurchase/input/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("accidentalpurchase/output/output" + test + ".txt"));
 
         int n = sc.nextInt();
         long permutations = 1L << n;

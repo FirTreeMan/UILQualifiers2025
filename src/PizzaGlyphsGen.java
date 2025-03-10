@@ -12,7 +12,7 @@ public static void main(String[] args) throws IOException {
     for (int test = 1; test <= 10; test++) {
         System.out.println("test " + test);
 
-        bw = new BufferedWriter(new FileWriter("pizzaglyphs/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("pizzaglyphs/input/input" + test + ".txt"));
 
         int wordTranslate = random.nextInt(100, 1000);
         int phraseTranslate = random.nextInt(100, 1000);

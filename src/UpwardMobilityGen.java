@@ -10,7 +10,7 @@ public static void main(String[] args) throws IOException {
     for (int test = 1; test <= 10; test++) {
         System.out.println("test " + test);
 
-        bw = new BufferedWriter(new FileWriter("evilpizza/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("evilpizza/input/input" + test + ".txt"));
 
         int staff;
         int kitchenStaff;

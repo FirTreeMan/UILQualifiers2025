@@ -1,0 +1,6 @@
+5 3
+Normal 0 10 0 0 50
+Abnormal 10 51 90 100 100
+Abnormal 70 90 50 80 100
+Abnormal 55 52 58 80 100
+Abnormal 85 61 100 60 100

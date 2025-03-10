@@ -9,8 +9,8 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw;
 
     for (int test = 1; test <= 10; test++) {
-        sc = new Scanner(new File("highendpizza/input" + test + ".txt"));
-        bw = new BufferedWriter(new FileWriter("highendpizza/output" + test + ".txt"));
+        sc = new Scanner(new File("highendpizza/input/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("highendpizza/output/output" + test + ".txt"));
 
         int n = sc.nextInt();
         int m = sc.nextInt();
