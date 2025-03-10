@@ -12,8 +12,8 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw;
 
     for (int test = 1; test <= 10; test++) {
-        sc = new Scanner(new File("deliveryoptimization/" + test + ".in"));
-        bw = new BufferedWriter(new FileWriter("deliveryoptimization/" + test + ".out"));
+        sc = new Scanner(new File("deliveryoptimization/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("deliveryoptimization/output" + test + ".txt"));
 
         int n = sc.nextInt();
         ArrayList<Integer>[] adj = new ArrayList[n];

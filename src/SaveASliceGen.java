@@ -10,7 +10,7 @@ public static void main(String[] args) throws IOException {
     for (int test = 1; test <= 10; test++) {
         System.out.println("test " + test);
 
-        bw = new BufferedWriter(new FileWriter("saveaslice/" + test + ".in"));
+        bw = new BufferedWriter(new FileWriter("saveaslice/input" + test + ".txt"));
         int rows = (int) (Math.random() * 50) + 1;
         int cols = (int) (Math.random() * 50) + 1;
         if (test >= 6) {

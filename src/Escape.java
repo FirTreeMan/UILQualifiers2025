@@ -14,8 +14,8 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw;
 
     for (int test = 1; test <= 10; test++) {
-        sc = new Scanner(new File("escape/" + test + ".in"));
-        bw = new BufferedWriter(new FileWriter("escape/" + test + ".out"));
+        sc = new Scanner(new File("escape/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("escape/output" + test + ".txt"));
 
         n = sc.nextInt();
         int pursuers = sc.nextInt();

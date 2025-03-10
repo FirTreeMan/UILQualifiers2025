@@ -8,7 +8,7 @@ public static void main(String[] args) throws IOException {
     for (int test = 1; test <= 10; test++) {
         System.out.println("test " + test);
 
-        bw = new BufferedWriter(new FileWriter("accidentalpurchase/" + test + ".in"));
+        bw = new BufferedWriter(new FileWriter("accidentalpurchase/input" + test + ".txt"));
 
         int toppings;
         if (test <= 5)

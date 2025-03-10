@@ -10,7 +10,7 @@ public static void main(String[] args) throws IOException {
     for (int test = 1; test <= 10; test++) {
         System.out.println("test " + test);
 
-        bw = new BufferedWriter(new FileWriter("smugglers/" + test + ".in"));
+        bw = new BufferedWriter(new FileWriter("smugglers/input" + test + ".txt"));
 
         int hideoutCount;
         if (test <= 5)

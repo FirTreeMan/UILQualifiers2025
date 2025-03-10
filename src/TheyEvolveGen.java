@@ -10,7 +10,7 @@ public static void main(String[] args) throws IOException {
     for (int test = 1; test <= 10; test++) {
         System.out.println("test " + test);
 
-        bw = new BufferedWriter(new FileWriter("theyevolve/" + test + ".in"));
+        bw = new BufferedWriter(new FileWriter("theyevolve/input" + test + ".txt"));
 
         int pesticides = random.nextInt(1, 101);
         int breeds = random.nextInt(1, 10001);

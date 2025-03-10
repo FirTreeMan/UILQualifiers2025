@@ -13,8 +13,8 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw;
 
     for (int test = 1; test <= 10; test++) {
-        sc = new Scanner(new File("smugglers/" + test + ".in"));
-        bw = new BufferedWriter(new FileWriter("smugglers/" + test + ".out"));
+        sc = new Scanner(new File("smugglers/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("smugglers/output" + test + ".txt"));
 
         n = sc.nextInt();
         desired = sc.nextInt();

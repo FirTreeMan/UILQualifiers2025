@@ -1,0 +1,64 @@
+62 81
+27 76
+x m K f d f m x m k   c x c x K c d m c c x 8 9 d d 8 m K   c m 8 d d x K m 9 k c m f 8 c W 8 c K 9 d   d f c 9 k d d d m K W c K x f m f m x d 9 W 9 W d K k c m
+d k 8 k 9 k K k f k W K x x d m f 9 9 d m c x 9 c d 8 9 k k 9 k c c 9 W m W f c k d d d c W 8 9 8 d W W x 9 d x 8 m m K f   m m k k f k 9 c   f c d 9 K x m   c c
+x W d k d 8 9 m k c W c c K 9 9 c f W c f 8 k k 9 K K c   k 8 c c K 9 d K 9 d K c c 8 W 9 K d c c K K k k W c K K d m 9 x 8 c W c   c f W k m c W f   m W c   c 8
+K 8 k K f   k c 8 8 K d c f K d c c K c W 8 W d 8 m c c f   8   m 8 c W K K c K k k 8 K c 8 c k W W K k f f k k K W c K x 8 f   K W k c     c c 8 8 m c f 9 x 9 8
+f m   d   9 m K f m   m 9 K 8 K m f   d f f W 9 k c d c c 9 x   9 f 8 c c f d m c W x c K c 8 f K c K   W x   x W     m   d f 9 W W d 9 K 9 m k m d d d f W   f f
+c 8 9 8 x x f W K W x x c   W   c d d c c m d c   9 k c f   m W W m K c k c f k 9 f 9 f K   W x c x   f   x   f c m W K x 8 c m 8 8 c K c f f m 8 c c 9 c K 8 c K
+K   8 d m   m K W d K d W f K K c c k f k c 9   c 9 9   9 f 8 c 9 f x d c 8 m x m 9 9 d m   c   x K f f m x 9 8   W   W 8 f   k   m d c 9 K 9 c x x c f f 8 d 8 d
+x 9 9 x c d c W c c f m   c 8 x   c K c k 8 m W m c d K 9 K 8 K   c k k f m c K W d d c W c c f   d 8 9 d f K x c W c W d 9 c x m c   c K 8 m K m m W x c k 8 c k
+  k 8 c f   9 8 8 c   8 m k c c   K c W x k K c k x x K c d   x K d f x   W c k f m x 9 c   W f   c c d c     k W 9 c 8 d 9 x c 8 c c k c d c K K x W f m c c W 8
+c W f c m c m f c d f   8 9 c c x x c W c c K   c c c c k K c f c c W 8 c k 9 8 x c x k 8 K k K c   K k k f K K W x d c k W m f K c 8 k m m 9 8 x c k W c K K f 8
+W c f f c k x K K m c K m K x c K c 9   d f c c c W f m W f 9 m m W c c m d c 8 c d m K K x W K c 8 W x d k 8 x m 8 c d m m c m c   W 8 8   d 8 x c 9 x K f c c 9
+x K 9   K 8 c k 9 c x d K d 8 8   x f 9 W m m d k f m 8 d       9 c f k c d f f 8 c k m d 9 m x c m 8 d k 8 W 9   f 9 c f K x 8 c d f m W W   c d c   c c m 8 c c
+x   f K m x c d K 9 W c c   K m W c k m k 9 9 c 8 d 9 K W c f   c   d W K W c c m c d   9 d k d d d m m 9 m c c f c x c x f 9 f W d W 8 c d K f W f c d c K 8 m c
+    f 8 k d c x c m K K k d c 9 W c 8 K d x K 9 x f m W c m K 9 8 8 9 9 c f d f x c W 8 m   c k 8 W c K x m 9 m 9     k x c d d c 8 x k c c d 8 W k   c c   f W f
+d 9 d W k K k   c 9   9 x   9 9 c K m K   W d c x 9 m x 9 K m m K 8 9 x 9 f f W x 8 k f 9 K d d W f W   d x m f W   W m c x f f 9   9 k x m c 9 f K f c d k m d c
+8 c   K c k x 9   c 9 f 8 9 k f k     m K k c k d m W x W d   W m m W k f W x W 9 c W d K 9 9 8 x W W f x 8   9 k   K k d c 9 d d k x m d 9 9 f 9 f K c 8   K   K
+c W d k 8 m 8 c x m c d d m 8   d f d W d 8 m 8 x d c k k d   k 9 9 c c 8   m f 8 k K K c f c c W d x c m W 9 x 9 9 W   c K c W 8 k   k 8 f m x   W k d x 8 d   x
+f 8   m   8 d k x f 8 W x K c c c f d f x m f k   W x k 9 8   W c x c x c 9 c c W W f c d 9 8 d 9 c K f m K c x c d 9 W 9 K d m f f W d c W 8 f x k k   f K c K  
+W 8 K   x k c m x f k m c k c c x   f x m m m m c c 9 9 k c c   x   c k k 9 9 x d c c 8 c c c   c d f   W x   8 d   c x W K m W W x W c K c W 8 9 m K c f 8 c m 8
+k c m K x K f 8 f   m c f k 9   8 W K k   k d   d 8 8 K 9 d 8 c c m c c f 8 c   K 8 9 m K c   x 9 8 K k c K c c x     x K   K x   8 m 8 c c x x k W m W m K k m m
+d W d c c W W 9 c   m c c W     x W W   9   f x   9 f c 9 m c m   d     9 m c 8 c k d k K f K x c k K W x f m 8 f d k x x   k k W W 8 K 9 k W c m c K m 8 k 9 W W
+c m c W c 8 c f W x 8 k k f K c 8 9 W d 8 9 9 c f x k f K m k c c c f   k x k c f m d 9 c x c x d c k W c W K k c m   W k k W x W K d c 8 c   x 9 k k 9 W k d W k
+  k   9 k x c x 9 x   f k c f d m f c c 8 c m W W k c m 8 c x 9 m m d d c   k c W 9 9 c c k W 8 x d k f W 9 9 k 8 f c c   x W c W x c f 8 8 c 9 K c W f d m k d W
+8 8 c k W m k x m x c x W k x m 8 d c f f   W m c   k 9 9 9 c m x f 9 W m 8 x k 9 m k c K d W 9 x c f k k K k W f W f W 9 W c 9   k c k K   x   k   c W 9 c   c x
+x K   W k W k 9 K f k c   W d c 9 8 K d   8 c W 8 c c   K 8 m K K k x d x c f c k K f W c c m f 9 9 W x f 8 f   x c c 8 c x k c m   m   k f x c x W 8 9   d 9 m c
+c c   8 c k 8 8 d k c 9 x   8 f 9   c K k c c k 8 c K c x c c c K m f W K m 9 9 c m k d k x W W c W 9 x c W 9 d c c c 8 8 m c x   k k K k 8 8 9 c W k f m m   W d
+f x m k 8   9 m 8 k m f x 9 c K d x d W m 9 d 9 9 m k f c k W f c K x d d 8 m c x f x 9   W m c K k 9 d d W K d x x c   W m d m f c m 9 k f x c K m c   x 9 d 8 m
+K K K 8 c   K 9 K c k   k 9 d f k d c K m c 8 8   W c 8 W f x x 8 f 8 K 8 c c c c m k m c   W d m f K 8 W W W k d K k f d k m 8 x c K W W 9 K m 9 c c K K f   f c
+c d c   d 9 d 8 8   c c W k 9 c c k W W 9 f 8 c   K c d k d K m k k f K 8 K x k 8 c x x K k d k K m f x W x c c     f f c K d f c K W 9 d 8   W f 8   m f d c 8 d
+9   f x m d 9 m k   9 x 8 c   c 9 8 c k K 8 W d 8 c K 9 f W k W c W c f 8 9 x f c x d W d K m 9 f k 9 c K m W W f k f W x x d W 9 k f W m 8 x f c x W 9 c k d d 8
+d m   K c f c W c f W f c K c K   c m 8 x f 9 k c f x f k K 9 9 k d f m c k k K c f 9 c c k k f c f K   f c k d m   K d W c k 9 d k f 9 m f   K x   8 x W c c W W
+K f 8 c 9 8 W x m d 8 K c W 8 9 f W m f K f f f c k f c 9 m K m x 9   k k   9 x W W c 8 x 9 8 c 8 k k   k K f x f c c f d W W c c K d c     8   c W 9 c m f W W x
+9   m c c   9 8 m c d 9 c 8 x 8 f 8 f K W 9 9 m x k m f 8 c   m 9 W c c d K d d k K m c f K f x f   k 9 x k k m   c K 9 m W m d d c k 8   m x W W   c d k k m W K
+d 9 c   9 K m   d c c d d f 8 8 c x c k 9 f f c 8 x K   f c c W d K 8 W c   d f W x K K x f k c 9 9 8 x k c 9 m W K c 8 x k W W k k c   d f x x c   W c K c d 8 k
+c   W K x W m 8 8   W m 9 c W k W k 8   m W k c K c f x K 9 x x 8 m c 9 8 W m x f c k c 8 f 8 K c k K d 8 d c 8 W c d W W k c W K c W   x f c c K c 8 c d d c f 8
+x c x W f f K W c x W k c K 9 W 8 d f W f c 9     f 9 c x 8 k x K 9 k m W d 9 k f W k x x c d f W c d   K m 9 x c x f c f W f x f 8 9 W W c   f c c c 9 W 9   d f
+k f c W W 9 8 c c   x W k x 8 d 8 c f k d d   d 9 x c m c k k K m 9 9 k f c d 8 c f d c c k x x 8 c c x k d f d K K c K f K x   9 8 8 9   W d 8 k d K f 9 x   f W
+W K c f c f x m 8 W x 8 c f c W f W K f W f d   W c   f   9 k c k k W c x c K x   W k k c c 9 c 8 W x d m k x x m k   8 c x W k c K K c m c 9 8 K k k 8 c c K c W
+k c 9 8 9 d W f c k k x m d m c K d m m c K k 8 m d c 8 K f   f m W 8 c x   K c 9 k f c W 8 K f c f d   c 8   f 8 8 c m c 9 K 9 d d K c c x W W x x m x x x 9 W c
+  x K c f m k d c x c c k K 9 f 9 m K k c 8 x f   8 W c x c f K f k f x K m K k c c d x c f m k K K m 8 K 8   k c k d x 8 d c c m 8 c m 8 c x W d   c 9 k f k c x
+c x 9 k 8 8 W 9 x W 9 K x K 8 W f m 9 K m c m W f c W W c K d 9   k k c K c d   c K c d k x K k K W c K d c W k 9 m f f W   m 8 K K k K d 9 f 8 W f x m W f W   k
+c K K c c f c   c 8 c k 8 K 9 k 8 m d W 9 W K W m x c x K W f k c d k f c m 8 9 K K   k c c   K 8 f k K k d k K K K W c k m   8 c 9 m 8 8 8 K 9 d d W x   c x f 9
+9 8 x f K m c x x 9 c c d k x d 9 K W d 8 9 m 8 x 8 x 8 k d   x W f d   d f W c d d d 9 c W W K   c k f k W 9 x c m m m W x f   9   K 9 m   K x   m k d c k 8 c d
+9 d K m K   d 8 8 x f c K c f k f W c k c     8 k d c c K K c c f c   c c f   f x d m k f 8 W x d W 9   9   d K c W W c W x c f W c f 9 k c c m c   K f W f K   f
+m k f   9 m f x f m m m k d k k c c c d   9 9 k m d c c f 9 f m 9   c 8 f 9 c   f K c K k 9 m   K f f f c 8 d   9 9 c   x 8 9 k   W k 9 m d k m k d d c   K W W  
+m c c   K k W c 8 x 8 x m K c x f x c W K K d x W W k c 8 K K d d   f c 8   d f   k 8 m k     d   c   K d   m m 8 f K x c f x W x f x k   c 8 K c k c   k W c K k
+  K k 9 9 9 c   c f x k k 8 k x d f W 8 c 8 9 x c x k x c c K x c W f K d c W x K   9   9 d 8 c c 9 f m 9 k 8 8 f d   m K W d m c k k d K d W K 9 K W c k 8 8 c x
+W f x d K c c k m m x m W x 8 f   W   d k f d 8 f W 8 d x m f 9 d x f W W k f   k 9   K c 8 d m W m 8 W c 8   8   f c 8 f W   m c m 9   W   x m f W m f c K c K c
+k 8 k 9 c x m   m W m   9 d 9 8   d c K 8 W k m   c K 8 8 c k m 8 d 9 f c K 9     d 8 d k x x 9 9 8 K 8 c m c x c f k W   9 d f d K 9 d c 9 8 f m   c k m c W W d
+c m W c k f 8 c f c d 9 d c m   x c 8 9 x f m K W k W k   x K m K m m W c d d   9 f k   f c m c f K K c c c 9   x W m W c c m d f c f c K 9 K x d x d f m 9 f 9 c
+K 8 d 8 x 8 k f W W f W m 8 f f x f K   c W d m W   8 K K m c d K d   m m 8 K 8 8 W K x 9 m c   9 c k K f   8 W m f c k c c m m k c f 9 d k d d c   9 x f W c   m
+    k f 8 d 9 d K d   c K x 9 c m 9 9 k K d   k c f c K c   d 9 c W K   x c 8 K x c c W k 9 W W c   m 8 W c x 9   W m 8 f k W c K 9     m x x 8   K c 9 x c W x W
+d 8 d K k f c x 9 W f W 9 W k K 9 f m K   W c x k 9 W W 9 8 x K d c k 8 W c x c   x x 9 K W f m W k c f K m c f f 9 m m 8   9 d x W f   8 m c K c 9 k m c c   K c
+8 k f d W 9 f f   f x 9 k c d 9 9   c d   d f f f   9   8 c 9 x W m 8 x c 8 c x K d   K x k d 9 8 k d d W 8 c 8 c 9   f c K c m m c W 8 f   f c 8 x m d f     c  
+  8 x W c 8 m m   K f   x W c c 9 d f m W x c x d c x 8 m 8 m c m k W c c   c f d c k 9 W x c d x K 8   c 9 f 9 f c c 9 8 c   m c m K 8 9 m c k 9 d x f 9 d m K 8
+f K c K c d 8 9 d d c 9 8 f f d m x k K   W d k 9 x 8 x     W c c 9 8 K m K 8 9 k k c 9 d 9 x W 9 c W K W f x m 8 K W   9 c c d c x 9 f f K c m 8 x m m d x 9 c k
+K K 9 c k c f k d c m W W c m 9   d 9 W K 8 9 d d   9   d K m m K W d W f m K m K 9 K d c c 8 f c 9 W c m W 8 W x d K d K c c d c x K k c K k k c   8 c W c 9 K 9
+d 9 8 8 9 k W x c 9 f 8   K K k 8 m 8 c K m 9 8 9 x W d c f f K 9 m c x m   x K   k K c k W 8 K c 9 c f f f c 9   f m c m   9 c x d K k W f m 8 8 W d m k c d k W
+c k c x x 8 f 9 x 9 k k W W K   c x x 8 k k 9 8 x W   m x K 8 x m c f x W m d K c k f c x K k W   d c K 9 W 9 m f 8 f d x k m m 9 8   9     m m W d 8 m W f K c m
+  c 9   8 c K c x k 9 c m   k 9 d W W c m m W c c m x 8 x 9 8 8 W 9 m x f K 8 W 9 8 x m 9 c k 9 f K W d m c   9   c 8 K d c   9 c c x   f x c W c m   W c   W x k
+k x d 9 9 W K d W K K c K 9   9 c K W f m 9 m m k c 8 x k K f k k c W f x W m d c 8 K m   W   d c c k m K 8 m f 8 W c 8 K f 8 f x W 9 9 f m m k W c 9 x f 8 x k W
+k c m   c x 9   9 K k c K W m d c 9 K f 8 m c k 9 k f c m       x K c m K c W c 9 k 8 W   f   d m f 9 k c f K   K k c 8 c c 8 k k x d 9 m k K K d 8 f m c   K c x

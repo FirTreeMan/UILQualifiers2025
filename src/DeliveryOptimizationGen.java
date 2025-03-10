@@ -11,7 +11,7 @@ public static void main(String[] args) throws IOException {
     for (int test = 1; test <= 10; test++) {
         System.out.println("test " + test);
 
-        bw = new BufferedWriter(new FileWriter("deliveryoptimization/" + test + ".in"));
+        bw = new BufferedWriter(new FileWriter("deliveryoptimization/input" + test + ".txt"));
 
         int nodeCount = (int) (Math.random() * 9999) + 2;
         bw.write(nodeCount + "\n");

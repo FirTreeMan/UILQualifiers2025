@@ -11,7 +11,7 @@ public static void main(String[] args) throws IOException {
     for (int test = 1; test <= 10; test++) {
         System.out.println("test " + test);
 
-        bw = new BufferedWriter(new FileWriter("escape/" + test + ".in"));
+        bw = new BufferedWriter(new FileWriter("escape/input" + test + ".txt"));
 
         int locationCount = random.nextInt(90000, 100000);
         int cycleTotal = 0;
@@ -39,7 +39,7 @@ public static void main(String[] args) throws IOException {
             cycleTotal += cycleLength;
         }
 
-        int pursuers = random.nextInt(cycleTotal / 2, cycleTotal * 3 / 2);
+        int pursuers = random.nextInt(cycleTotal / 2, cycleTotal * 3);
 
         bw.write(locationCount + " " + pursuers + "\n");
         int[][] edgeArray = edges.toArray(new int[0][0]);

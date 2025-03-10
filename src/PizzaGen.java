@@ -14,13 +14,12 @@ public static void main(String[] args) throws IOException {
     for (int test = 1; test <= 10; test++) {
         System.out.println("test " + test);
 
-        bw = new BufferedWriter(new FileWriter("pizza/" + test + ".in"));
+        bw = new BufferedWriter(new FileWriter("pizza/input" + test + ".txt"));
         int numbers = (int) (Math.random() * 991) + 10;
         int realPos = (int) (Math.random() * numbers);
 
         bw.write(String.valueOf(numbers));
         bw.newLine();
-        System.out.println(numbers + " numbers");
 
         while (numbers-- > 0) {
             if (numbers == realPos)
@@ -34,7 +33,7 @@ public static void main(String[] args) throws IOException {
         }
 
         bw.flush();
-        System.out.println("finished\n");
+        System.out.println("finished");
     }
 
     System.out.println("all done");

@@ -10,8 +10,8 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw;
 
     for (int test = 1; test <= 10; test++) {
-        sc = new Scanner(new File("theyevolve/" + test + ".in"));
-        bw = new BufferedWriter(new FileWriter("theyevolve/" + test + ".out"));
+        sc = new Scanner(new File("theyevolve/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("theyevolve/output" + test + ".txt"));
 
         int n = sc.nextInt();
         int m = sc.nextInt();

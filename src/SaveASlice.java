@@ -21,8 +21,8 @@ public static void main(String[] args) throws IOException {
     BufferedWriter bw;
 
     for (int test = 1; test <= 10; test++) {
-        sc = new Scanner(new File("saveaslice/" + test + ".in"));
-        bw = new BufferedWriter(new FileWriter("saveaslice/" + test + ".out"));
+        sc = new Scanner(new File("saveaslice/input" + test + ".txt"));
+        bw = new BufferedWriter(new FileWriter("saveaslice/output" + test + ".txt"));
 
         rows = sc.nextInt();
         cols = sc.nextInt();
