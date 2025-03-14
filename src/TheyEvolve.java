@@ -14,14 +14,14 @@ public static void main(String[] args) throws IOException {
         bw = new BufferedWriter(new FileWriter("theyevolve/output/output" + test + ".txt"));
 
         int n = sc.nextInt();
-        int m = sc.nextInt();
+        int p = sc.nextInt();
 
         int[] maxNormalEffectiveness = new int[n];
         TreeMap<Integer, Integer>[] evolvingEffectivenessFrequency = new TreeMap[n];
         for (int i = 0; i < n; i++) evolvingEffectivenessFrequency[i] = new TreeMap<>();
         boolean[] invalid = new boolean[n];
 
-        for (int breed = 0; breed < m; breed++) {
+        for (int breed = 0; breed < p; breed++) {
             boolean evolving = sc.next().equals("Abnormal");
             for (int i = 0; i < n; i++) {
                 int effectiveness = sc.nextInt();
@@ -50,8 +50,11 @@ public static void main(String[] args) throws IOException {
 
             int mode = evolvingEffectivenessFrequency[i].lastKey();
             for (int effectiveness: evolvingEffectivenessFrequency[i].descendingKeySet())
-                if (evolvingEffectivenessFrequency[i].get(effectiveness) > evolvingEffectivenessFrequency[i].get(mode))
+                if (evolvingEffectivenessFrequency[i].get(effectiveness) > evolvingEffectivenessFrequency[i].get(mode)) {
                     mode = effectiveness;
+                    if (mode <= 50) break;
+                }
+            if (mode <= 50) continue;
 
             int suitability = mode - maxNormalEffectiveness[i];
             if (suitability > bestSuitability) {
@@ -61,8 +64,8 @@ public static void main(String[] args) throws IOException {
         }
 
         if (pesticide == -1)
-            bw.write("Need more development");
-        else bw.write(pesticide + "\n");
+            bw.write("Need more development\n");
+        else bw.write((pesticide + 1) + "\n");
 
         bw.flush();
     }

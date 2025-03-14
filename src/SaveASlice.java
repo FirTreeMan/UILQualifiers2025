@@ -46,8 +46,8 @@ public static void main(String[] args) throws IOException {
         int bestR = rows - searchRows - 1, bestC = cols - searchCols - 1;
         int bestUnevenness = Integer.MAX_VALUE;
         int bestToppings = 0;
-        for (int r = rows - searchRows - 1; r >= 0; r--)
-            for (int c = cols - searchCols - 1; c >= 0; c--) {
+        for (int r = rows - searchRows; r >= 0; r--)
+            for (int c = cols - searchCols; c >= 0; c--) {
                 calcSlice(r, c);
                 if (sliceUnevenness < bestUnevenness ||
                         sliceUnevenness == bestUnevenness && sliceToppings > bestToppings) {
@@ -58,7 +58,7 @@ public static void main(String[] args) throws IOException {
                 }
             }
 
-        bw.write(bestR + " " + bestC + "\n");
+        bw.write(bestC + " " + bestR + "\n");
         bw.flush();
     }
 }

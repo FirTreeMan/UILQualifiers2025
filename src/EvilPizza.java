@@ -26,7 +26,7 @@ public static void main(String[] args) throws IOException {
         int most = mostWarehouses();
 
         bw.write(most == -1 ? "It's so over..." : Integer.toString(most));
-
+        bw.newLine();
         bw.flush();
     }
 }
@@ -50,7 +50,10 @@ static int mostWarehouses() {
 
     int[] needed = new int[31];
     for (int i = 0; i < 31; i++)
-        needed[i] = (perWorker & (1 << i)) > 0 ? 1 : 0;
+        if ((perWorker & (1 << i)) > 0) {
+            needed[i] = 1;
+            most++;
+        }
 
     while (!empty(frequencies)) {
         for (int i = 30; i >= 0; i--) {

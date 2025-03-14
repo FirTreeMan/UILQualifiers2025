@@ -12,11 +12,11 @@ public static void main(String[] args) throws IOException {
 
         bw = new BufferedWriter(new FileWriter("highendpizza/input/input" + test + ".txt"));
 
-        int calculatedDays = random.nextInt(100000, 1000001);
+        int calculatedDays = random.nextInt(900000, 1000001);
         int openingDays;
         if (test <= 5)
             openingDays = random.nextInt(3, 50);
-        else openingDays = random.nextInt(100000, 1000000);
+        else openingDays = random.nextInt(600000, 800000);
         if (openingDays % 2 == 0) openingDays++;
 
         bw.write(calculatedDays + " " + openingDays + "\n");

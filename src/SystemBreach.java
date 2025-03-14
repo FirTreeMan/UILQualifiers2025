@@ -4,7 +4,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-static final int[] succeedTests = {3, 4, 7};
+static final int[] succeedTests = {0, 3, 4, 7};
 
 public static void main(String[] args) throws IOException {
     Scanner sc;
